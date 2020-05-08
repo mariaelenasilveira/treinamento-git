@@ -1,0 +1,5 @@
+Git add
+Git commit
+Git checkout
+Git branch
+Git stash
