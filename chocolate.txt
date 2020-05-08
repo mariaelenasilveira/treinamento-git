@@ -4,4 +4,7 @@ Teste rebase
 Alterado
 
 Terceiro teste
- cafeti
+ Cafetinaram
+
+
+final
